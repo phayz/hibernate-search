@@ -274,7 +274,7 @@ hibernate.search.Actions.directory_provider = com.acme.hibernate.CustomDirectory
             before changing this setting. Even though
             <classname>NIOFSDirectory</classname> or
             <classname>MMapDirectory</classname> can bring substantial
-            performace boosts they also have their issues.</para></entry>
+            performance boosts they also have their issues.</para></entry>
           </row>
 
           <row>
@@ -324,7 +324,7 @@ hibernate.search.Actions.directory_provider = com.acme.hibernate.CustomDirectory
             before changing this setting. Even though
             <classname>NIOFSDirectory</classname> or
             <classname>MMapDirectory</classname> can bring substantial
-            performace boosts they also have their issues.</para></entry>
+            performance boosts they also have their issues.</para></entry>
           </row>
 
           <row>
@@ -388,7 +388,7 @@ hibernate.search.Actions.directory_provider = com.acme.hibernate.CustomDirectory
             before changing this setting. Even though
             <classname>NIOFSDirectory</classname> or
             <classname>MMapDirectory</classname> can bring substantial
-            performace boosts they also have their issues.</para></entry>
+            performance boosts they also have their issues.</para></entry>
           </row>
 
           <row>
