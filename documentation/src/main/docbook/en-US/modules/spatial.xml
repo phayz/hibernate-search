@@ -306,7 +306,7 @@ public class Event {
 </programlisting>
     </example>
     <para>When using this form the <literal>@</literal><classname>Spatial</classname>
-    <literal>.name</literal> automatically defaults to the propery name.</para>
+    <literal>.name</literal> automatically defaults to the property name.</para>
   </section>
    </section>
 
