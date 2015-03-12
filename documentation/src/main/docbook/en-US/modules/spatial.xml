@@ -231,7 +231,7 @@ public class Hotel {
     <title>Implementing the Coordinates interface</title>
 
     <para>Instead of using the <literal>@</literal><classname>Latitude</classname>
-    and <literal>@</literal><classname>Longitue</classname> annotations
+    and <literal>@</literal><classname>Longitude</classname> annotations
     you can choose to implement the <classname>org.hibernate.search.spatial.Coordinates</classname>
     interface.</para>
 
