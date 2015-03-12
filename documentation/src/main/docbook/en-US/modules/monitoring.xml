@@ -63,7 +63,7 @@
       <title>StatisticsInfoMBean</title>
 
       <para>This MBean gives you access to <classname>Statistics</classname>
-      object as desribed in the previous section.</para>
+      object as described in the previous section.</para>
     </section>
 
     <section>
